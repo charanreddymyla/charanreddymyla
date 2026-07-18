@@ -93,8 +93,7 @@ An enterprise-ready endpoint detection platform designed for defensive cybersecu
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charanreddymyla&theme=default&show_icons=true)](https://github.com/charanreddymyla)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=charanreddymyla&include_all_commits=true&theme=aura_dark)](https://github-stats-extended.vercel.app/api?username=charanreddymyla&include_all_commits=true&theme=aura_dark)
 ## 🎯 What I'm Looking For
 
 - 🤝 Collaboration opportunities on innovative projects
@@ -107,7 +106,7 @@ An enterprise-ready endpoint detection platform designed for defensive cybersecu
 - 📧 **Email:** [mylacharan2005@gmail.com](mailto:mylacharan2005@gmail.com)
 - 💼 **LinkedIn:** [Charan Reddy Myla](https://linkedin.com/in/charanreddymyla)
 - 🐙 **GitHub:** [@charanreddymyla](https://github.com/charanreddymyla)
-- 📱 **Phone:** +91 9392716433
+- 📱 **Phone:** +91 8885612391
 
 ## 💬 Let's Collaborate!
 
