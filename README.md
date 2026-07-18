@@ -1,10 +1,10 @@
-# Hi there, I'm Sohan Dharavath 👋
+# Hi there, I'm Charan Reddy Myla 👋
 
 Welcome to my GitHub profile! I'm a passionate Computer Science student and developer from Hyderabad, India, with a strong foundation in programming, problem-solving, and software development.
 
 ## 🎓 About Me
 
-- 🎯 **Student** at CVR College of Engineering (B.Tech CSE) - CGPA: 9.07
+- 🎯 **Student** at CVR College of Engineering (B.Tech CSE)
 - 💻 **Full-Stack Developer** with expertise in React, Node.js, and modern web technologies
 - 🤖 **AI & ML Enthusiast** - Passionate about building intelligent applications
 - 🚀 **Problem Solver** - Interested in creating solutions that make a real-world impact
@@ -87,7 +87,7 @@ A comprehensive web-based platform for booking and managing household services s
 
 ## 📫 Connect With Me
 
-- 📧 **Email:** [dsohan9999@gmail.com](mailto:dsohan9999@gmail.com)
+- 📧 **Email:** [mylacharan2005@gmail.com](mailto:mylacharan2005@gmail.com)
 - 💼 **LinkedIn:** [dharavath-sohan](https://linkedin.com/in/dharavath-sohan)
 - 🐙 **GitHub:** [@charanreddymyla](https://github.com/charanreddymyla)
 - 📱 **Phone:** +91 9392716433
@@ -102,6 +102,6 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
 
 **⭐ If you find my work interesting, please consider giving it a star!**
 
-Made with ❤️ by Sohan Dharavath
+Made with ❤️ by Charan Reddy Myla
 
 </div>
