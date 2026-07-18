@@ -1,62 +1,28 @@
 # Hi there, I'm Charan Reddy Myla 👋
 
-Welcome to my GitHub profile! I'm a passionate Computer Science student and developer from Hyderabad, India, with a strong foundation in programming, problem-solving, and software development.
+Welcome to my GitHub profile! I'm a passionate Cyber Security student and tool developer from Hyderabad, India, with a strong foundation in programming, problem-solving, and SOC analyst.
 
 ## 🎓 About Me
 
-- 🎯 **Student** at CVR College of Engineering (B.Tech CSE)
-- 💻 **Full-Stack Developer** with expertise in React, Node.js, and modern web technologies
-- 🤖 **AI & ML Enthusiast** - Passionate about building intelligent applications
+- 🎯 **Student** at CVR College of Engineering (B.Tech CSE-cs)
+- 💻 **Cyber Security Analyst** with expertise in Ethical hacking and Teaching.
+- 🤖 **Secuity Operations Center ** - Passionate about monioring intelligent applications entities.
 - 🚀 **Problem Solver** - Interested in creating solutions that make a real-world impact
 - 📚 **Lifelong Learner** - Always exploring new technologies and best practices
 
 ## 💼 Technical Skills
 
 **Programming Languages:**
-- C, Python, Java, JavaScript, TypeScript
+- C, Python, Java, JavaScript
 
-**Web Development:**
-- React.js, Node.js, Express.js
-- HTML, CSS, Tailwind CSS
-- Vite
-
-**Databases:**
-- MongoDB, PostgreSQL, SQL, PL/SQL
-
-**Tools & Technologies:**
-- Git & GitHub
-- VS Code
-- AWS (Boto3)
-- Google Gemini API
-- Docker & Docker Compose
-- RabbitMQ
+**Cyber Tools**
+- Zphiser ,John the ripper , Nethack , Wireshark .
+- Nmap ,Reconnoinsance tools.
+- Expert in Kali Linux environment.
 
 ## 🚀 Featured Projects
 
-### Digital Ally
-**AI-Powered Website & Newsletter Generator** | Sept 2024 - Mar 2025
 
-An intelligent platform that transforms natural language prompts into functional websites and newsletters using cutting-edge AI.
-
-- **Tech Stack:** React 19, TypeScript, Google Gemini API, Tailwind CSS, Vite
-- **Key Features:**
-  - AI-powered code generation from natural language prompts
-  - Voice-controlled commands (Web Speech API)
-  - Text-to-speech interaction
-  - Real-time code preview & export functionality
-  - Modern UI with Tailwind CSS
-
-### On-Demand Home Service Web Application
-**Service Booking Platform** | July 2025 - Dec 2025
-
-A comprehensive web-based platform for booking and managing household services seamlessly.
-
-- **Tech Stack:** Full-stack web development
-- **Key Features:**
-  - Seamless appointment scheduling system
-  - User-friendly interface
-  - Optimized database management
-  - Efficient service tracking and user data handling
 
 ### ProjectKD - KaalDrishti Defender
 **AI-Powered Endpoint Telemetry & Threat Detection Platform** | Production-Grade Security Solution
@@ -72,6 +38,19 @@ An enterprise-ready endpoint detection platform designed for defensive cybersecu
   - Enterprise-ready with structured logging, metrics, and REST API
   - Horizontal scaling for collectors, detectors, and backend services
 - **Architecture:** Agent → Collector → Detector → Backend with RabbitMQ messaging and PostgreSQL data storage
+
+  
+### Project Chatbot  - AI-Predefined messages
+**An real world chatbot used for college websites** | College Solutions
+
+
+- **Tech Stack:** Python 3.11+, Html , css .
+- **Key Features:**
+  - Instant messages
+  - Redirection to respective platform site
+  - helps to ask query directly in whatsapp
+  - voice asistance.
+- **Architecture:** Agent → chatbot  → AI → response
 
 ## 📜 Certifications
 
