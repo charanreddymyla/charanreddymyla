@@ -83,8 +83,8 @@ An enterprise-ready endpoint detection platform designed for defensive cybersecu
 ## 📫 Connect With Me
 
 - 📧 **Email:** [mylacharan2005@gmail.com](mailto:mylacharan2005@gmail.com)
-- 💼 **LinkedIn:** [Charan Reddy Myla](https://linkedin.com/in/charanreddymyla)
-- 🐙 **GitHub:** [@charanreddymyla](https://github.com/charanreddymyla)
+- 💼 **LinkedIn:** [Charan Reddy Myla](www.linkedin.com/in/myla-sai-charan-reddy)
+- 🐙 **GitHub:** [@charanreddy2005](https://github.com/charanreddymyla)
 - 📱 **Phone:** +91 8885612391
 
 ## 💬 Let's Collaborate!
