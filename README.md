@@ -54,21 +54,33 @@ An enterprise-ready endpoint detection platform designed for defensive cybersecu
 
 ## 📜 Certifications
 
-**AI & Data Science**
-- Introduction to Artificial Intelligence (Simplilearn)
-- Machine Learning for Beginners (Simplilearn)
-- Data Analytics, Data Science and Machine Learning (Udemy)
+### 🛡️ Cybersecurity
+- **Junior Cybersecurity Analyst Career Path** — Cisco Networking Academy
+- **Ethical Hacker** — Cisco Networking Academy
+- **Endpoint Security** — Cisco Networking Academy
+- **Cyber Threat Management** — Cisco Networking Academy
+- **Introduction to Cybersecurity** — Cisco Networking Academy
+- **Introduction to Networking for Cyber Professionals** — Zscaler Academy
+- **CompTIA PenTest+ (Ethical Hacking & Security Assessment)** — Udemy
+- **Continuous Monitoring** — NIST
 
-**Web & Cloud**
-- Web Development (Sololearn)
-- Master AWS with Python and Boto3
+### 🐧 Linux
+- **Red Hat Training: Getting Started with Linux Fundamentals (RH104)** — Red Hat
 
-**Core CS & Databases**
-- Database Foundations (Oracle Academy)
-- Applied Database Systems using Oracle AI Database
-- Introduction to Networking for Cyber Professionals (Zscaler Academy)
-- C Basics & Data Structures using C (E-Box)
-- Java Basics & Advanced Java Programming (E-Box)
+### ☁️ Cloud & Web
+- **Master AWS with Python and Boto3**
+- **Web Development** — Sololearn
+
+### 🤖 AI & Data Science
+- **Introduction to Artificial Intelligence** — Simplilearn
+- **Machine Learning for Beginners** — Simplilearn
+- **Data Analytics, Data Science and Machine Learning** — Udemy
+
+### 💻 Programming & Databases
+- **Database Foundations** — Oracle Academy
+- **Applied Database Systems using Oracle AI Database**
+- **C Basics & Data Structures using C** — E-Box
+- **Java Basics & Advanced Java Programming** — E-Box
 
 ## 📊 GitHub Stats
 
