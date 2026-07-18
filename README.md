@@ -28,6 +28,8 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student and deve
 - VS Code
 - AWS (Boto3)
 - Google Gemini API
+- Docker & Docker Compose
+- RabbitMQ
 
 ## 🚀 Featured Projects
 
@@ -55,6 +57,21 @@ A comprehensive web-based platform for booking and managing household services s
   - User-friendly interface
   - Optimized database management
   - Efficient service tracking and user data handling
+
+### ProjectKD - KaalDrishti Defender
+**AI-Powered Endpoint Telemetry & Threat Detection Platform** | Production-Grade Security Solution
+
+An enterprise-ready endpoint detection platform designed for defensive cybersecurity operations with real-time threat intelligence.
+
+- **Tech Stack:** Python 3.11+, PostgreSQL, TimescaleDB, RabbitMQ, Redis, Docker, Kubernetes
+- **Key Features:**
+  - Real-time telemetry collection from endpoints (file, process, network, registry events)
+  - AI-powered threat detection using pre-trained ML models
+  - Rule-based detection with MITRE ATT&CK-aligned signatures
+  - Scalable microservices architecture
+  - Enterprise-ready with structured logging, metrics, and REST API
+  - Horizontal scaling for collectors, detectors, and backend services
+- **Architecture:** Agent → Collector → Detector → Backend with RabbitMQ messaging and PostgreSQL data storage
 
 ## 📜 Certifications
 
@@ -88,7 +105,7 @@ A comprehensive web-based platform for booking and managing household services s
 ## 📫 Connect With Me
 
 - 📧 **Email:** [mylacharan2005@gmail.com](mailto:mylacharan2005@gmail.com)
-- 💼 **LinkedIn:** [dharavath-sohan](https://linkedin.com/in/dharavath-sohan)
+- 💼 **LinkedIn:** [Charan Reddy Myla](https://linkedin.com/in/charanreddymyla)
 - 🐙 **GitHub:** [@charanreddymyla](https://github.com/charanreddymyla)
 - 📱 **Phone:** +91 9392716433
 
